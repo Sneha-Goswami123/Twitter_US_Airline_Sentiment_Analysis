@@ -22,3 +22,8 @@ and Machine Learning techniques.
 
 ## Dataset
 Twitter US Airline Sentiment Dataset (Kaggle)
+
+## 🚀 Live Demo
+
+🔗 **Streamlit App:**  
+https://twitterusairlinesentimentanalysis-kopumsnttkkvqiazcdsh77.streamlit.app/
