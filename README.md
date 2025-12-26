@@ -27,3 +27,11 @@ Twitter US Airline Sentiment Dataset (Kaggle)
 
 🔗 **Streamlit App:**  
 https://twitterusairlinesentimentanalysis-kopumsnttkkvqiazcdsh77.streamlit.app/
+
+
+
+
+
+<p align="center">
+  Made with ❤️ by Sneha
+</p>
